@@ -1,4 +1,4 @@
-![Design and Development](https://www.freepik.com/free-vector/desktop-smartphone-app-development_10276838.htm#query=backend&position=4&from_view=search&track=sph&uuid=e609b906-4aec-4a47-a1db-e520e8eee79d)
+![https://github.com/cypso05/CyprainChidozie/blob/main/7040859.jpg)
 
 ### Hi there 👋, I'm Cyprain Chidozie
 I'm Cyprain from Czech Republic, and I do content on Design and Development. I really enjoy learning languages and frameworks like .NET, React, Angular,  Django, Express.js, , ASP.net, Spring Boot and the likes. My current focus is mainly on Backend development and I spend most of my days learning about latest technologies in this aspect. Feel free to reach out to me via my profile here https://www.linkedin.com/in/cyprain-uzomah-6092a71a7 . 
